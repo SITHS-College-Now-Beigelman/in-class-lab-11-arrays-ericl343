@@ -19,6 +19,8 @@ void fillRandom(double alpha[]);
 //Variables
 double computeAver(double alpha[]); 
 int count100(double alpha[]); 
+
+//Start of code
 int main() { double alpha[ARRAY]; 
 
 //Initialize array with specific values 
